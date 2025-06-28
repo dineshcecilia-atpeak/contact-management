@@ -20,12 +20,13 @@ A simple GUI-based Contact Management System built using Java Swing. Users can a
 🎨 Clean and modern-looking UI
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-⚙️ How to Run
-Save both ContactGUI.java and Contact.java in the same directory.
+## ⚙️ How to Run
 
-Open terminal or command prompt in that directory.
-
-Compile both files: javac Contact.java ContactGUI.java
+- 💾 Save both `ContactGUI.java` and `Contact.java` in the same directory  
+- 💻 Open terminal or command prompt in that directory  
+- 🧵 Compile both files:
+  ```bash
+  javac Contact.java ContactGUI.java
 
 Run the program: java ContactGUI
 
