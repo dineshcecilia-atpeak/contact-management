@@ -1,13 +1,22 @@
 📇 Contact Management System (Java Swing)
+
 A simple GUI-based Contact Management System built using Java Swing. Users can add, update, and delete contacts including name, phone number, and email with input validation and a clean UI.
 
+
 🚀 Features
+
 ✅ Add new contacts
+
 🔁 Update existing contacts
+
 ❌ Delete selected contacts
+
 📜 Scrollable list of contacts
+
 📱 Validates 10-digit phone numbers
+
 📧 Validates email format
+
 🎨 Clean and modern-looking UI
 
 
