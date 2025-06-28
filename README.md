@@ -27,8 +27,9 @@ A simple GUI-based Contact Management System built using Java Swing. Users can a
 - 🧵 Compile both files:
   ```bash
   javac Contact.java ContactGUI.java
-
-Run the program: java ContactGUI
+- 🧵 Run the program:
+  ```bash
+  java ContactGUI
 
 <img width="1470" alt="Screenshot 2025-06-07 at 12 50 14 AM" src="https://github.com/user-attachments/assets/500b9131-8eea-4926-b861-e93f85f8b277" />
 
