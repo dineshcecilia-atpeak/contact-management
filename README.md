@@ -1,9 +1,9 @@
-📇 Contact Management System (Java Swing)
+# 📇 Contact Management System (Java Swing)
 
 A simple GUI-based Contact Management System built using Java Swing. Users can add, update, and delete contacts including name, phone number, and email with input validation and a clean UI.
 
 
-🚀 Features
+## 🚀 Features
 
 ✅ Add new contacts
 
@@ -19,18 +19,15 @@ A simple GUI-based Contact Management System built using Java Swing. Users can a
 
 🎨 Clean and modern-looking UI
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ How to Run
 Save both ContactGUI.java and Contact.java in the same directory.
 
 Open terminal or command prompt in that directory.
 
-Compile both files:
+Compile both files: javac Contact.java ContactGUI.java
 
-javac Contact.java ContactGUI.java
-
-Run the program:
-
-java ContactGUI
+Run the program: java ContactGUI
 
 <img width="1470" alt="Screenshot 2025-06-07 at 12 50 14 AM" src="https://github.com/user-attachments/assets/500b9131-8eea-4926-b861-e93f85f8b277" />
 
